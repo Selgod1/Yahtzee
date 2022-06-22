@@ -1,2 +1,0 @@
-# Yahtzee
-Trabajo Extra Computacion
